@@ -2,6 +2,8 @@
 
 This Color-Boxes project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can see the app [here](jack-2077.github.io/color-boxes/)
+
 ## Available Scripts
 
 In the project directory, you can run:
